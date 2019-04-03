@@ -1,0 +1,1 @@
+echo 'running build.bat completed'
